@@ -65,4 +65,4 @@ module.exports =  {command, execute, description};
 
 ```
 
-Thank you
+Thank you.
